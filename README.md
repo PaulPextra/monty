@@ -189,9 +189,9 @@ $ cd Betty; ./install.sh
 * 0.1.0
 
 
-## :blue_book: Authors
+## :blue_book: Author
 
-* **Paul Okoli** - [@bdbaraban](https://github.com/PaulPextra)
+* **Paul Okoli** - [@PaulPextra](https://github.com/PaulPextra)
 
 ## :mag: License
 
