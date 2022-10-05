@@ -32,7 +32,7 @@ $ git clone https://github.com/PaulPextra/monty.git
 Compile with the following:
 
 ```
-gcc -Wall -Werror -Wextra -pedantic *.c -o monty
+gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ```
 
 Run the interpreter on a file:
